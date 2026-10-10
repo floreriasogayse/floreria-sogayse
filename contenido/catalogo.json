@@ -202,6 +202,24 @@
           "destacado": false
         }
       ]
+    },
+    {
+      "id": "dia-de-la-madre",
+      "titulo": "Dia de la Madre",
+      "descripcion": "Para sacarle un sonrisa a Mamá",
+      "productos": [
+        {
+          "id": "ramos-de-girasoles",
+          "titulo": "Ramos de Girasoles",
+          "precio": "$ 22.000",
+          "descripcion": "",
+          "detalles": [],
+          "fotos": [
+            "imagenes/productos/ramos-de-girasoles-mv1s3b4s0.jpg"
+          ],
+          "destacado": true
+        }
+      ]
     }
   ]
 }
