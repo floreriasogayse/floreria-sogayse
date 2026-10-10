@@ -220,60 +220,6 @@
           "destacado": true
         }
       ]
-    },
-    {
-      "id": "a",
-      "titulo": "a",
-      "descripcion": "",
-      "productos": [
-        {
-          "id": "aa",
-          "titulo": "aa",
-          "precio": "1",
-          "descripcion": "",
-          "detalles": [],
-          "fotos": [
-            "imagenes/productos/aa-mv1saw7d0.jpg"
-          ],
-          "destacado": false
-        }
-      ]
-    },
-    {
-      "id": "b",
-      "titulo": "b",
-      "descripcion": "",
-      "productos": []
-    },
-    {
-      "id": "c",
-      "titulo": "c",
-      "descripcion": "",
-      "productos": []
-    },
-    {
-      "id": "d",
-      "titulo": "d",
-      "descripcion": "",
-      "productos": []
-    },
-    {
-      "id": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-      "titulo": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
-      "descripcion": "",
-      "productos": [
-        {
-          "id": "a-2",
-          "titulo": "a",
-          "precio": "1",
-          "descripcion": "",
-          "detalles": [],
-          "fotos": [
-            "imagenes/productos/a-2-mv1sayf71.jpg"
-          ],
-          "destacado": false
-        }
-      ]
     }
   ]
 }
