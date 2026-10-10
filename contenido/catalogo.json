@@ -32,7 +32,7 @@
         {
           "id": "ramo-rosas-rojas",
           "titulo": "Ramo de rosas rojas",
-          "precio": "$ 28.000",
+          "precio": "$ 88.000",
           "descripcion": "Una docena de rosas rojas con follaje verde, envueltas en papel a elección.",
           "detalles": [
             "12 rosas rojas",
@@ -41,15 +41,14 @@
             "Tarjeta con dedicatoria"
           ],
           "fotos": [
-            "imagenes/ejemplos/ramo-rosas-rojas-1.svg",
-            "imagenes/ejemplos/ramo-rosas-rojas-2.svg"
+            "imagenes/productos/ramo-rosas-rojas-mv1qo96a0.jpg"
           ],
           "destacado": true
         },
         {
           "id": "ramo-primaveral",
           "titulo": "Ramo primaveral",
-          "precio": "$ 22.000",
+          "precio": "$ 55.000",
           "descripcion": "Mezcla de rosas, margaritas y flores de estación en tonos suaves.",
           "detalles": [
             "Flores de estación",
@@ -57,22 +56,21 @@
             "Ideal para cumpleaños"
           ],
           "fotos": [
-            "imagenes/ejemplos/ramo-primaveral-1.svg",
-            "imagenes/ejemplos/ramo-primaveral-2.svg"
+            "imagenes/productos/ramo-primaveral-mv1qoacu1.jpg"
           ],
           "destacado": false
         },
         {
           "id": "ramo-tulipanes",
           "titulo": "Ramo de tulipanes",
-          "precio": "",
+          "precio": "$ 67000",
           "descripcion": "Tulipanes de colores, según disponibilidad de la temporada.",
           "detalles": [
             "Entre 10 y 15 tulipanes",
             "Sujeto a disponibilidad"
           ],
           "fotos": [
-            "imagenes/ejemplos/ramo-tulipanes-1.svg"
+            "imagenes/productos/ramo-tulipanes-mv1qob7o2.jpg"
           ],
           "destacado": false
         },
@@ -86,38 +84,7 @@
             "Papel kraft y moño"
           ],
           "fotos": [
-            "imagenes/ejemplos/girasoles-1.svg"
-          ],
-          "destacado": false
-        },
-        {
-          "id": "caja-rosas",
-          "titulo": "Caja de rosas",
-          "precio": "$ 35.000",
-          "descripcion": "Rosas acomodadas en una caja rígida con tapa. Se puede elegir el color.",
-          "detalles": [
-            "15 rosas",
-            "Caja negra o blanca",
-            "Colores a elección"
-          ],
-          "fotos": [
-            "imagenes/ejemplos/caja-rosas-1.svg",
-            "imagenes/ejemplos/caja-rosas-2.svg"
-          ],
-          "destacado": true
-        },
-        {
-          "id": "centro-mesa",
-          "titulo": "Centro de mesa",
-          "precio": "Desde $ 18.000",
-          "descripcion": "Arreglo bajo para mesas de eventos, casamientos y cumpleaños.",
-          "detalles": [
-            "Se arma a medida",
-            "Precio por unidad",
-            "Consultar por cantidades"
-          ],
-          "fotos": [
-            "imagenes/ejemplos/centro-mesa-1.svg"
+            "imagenes/productos/ramo-girasoles-mv1qoc473.jpg"
           ],
           "destacado": false
         }
@@ -130,16 +97,16 @@
       "productos": [
         {
           "id": "oso-con-rosas",
-          "titulo": "Oso de peluche con rosas",
-          "precio": "",
-          "descripcion": "Oso de peluche con un pequeño ramo de rosas.",
+          "titulo": "Oso de peluche",
+          "precio": "$ 22.000",
+          "descripcion": "Oso de peluche Blanco o Marrón",
           "detalles": [
             "Varios tamaños y colores",
             "Se puede combinar con cualquier ramo"
           ],
           "fotos": [
-            "imagenes/ejemplos/peluche-oso-1.svg",
-            "imagenes/ejemplos/peluche-oso-2.svg"
+            "imagenes/productos/oso-con-rosas-mv1qod624.jpg",
+            "imagenes/productos/oso-con-rosas-mv1qoe2e5.jpg"
           ],
           "destacado": false
         }
@@ -153,28 +120,14 @@
         {
           "id": "florero-rosas",
           "titulo": "Florero con rosas",
-          "precio": "",
+          "precio": "$ 25.000",
           "descripcion": "Rosas en florero de vidrio, con agua y follaje.",
           "detalles": [
             "Florero incluido",
             "Colores a elección"
           ],
           "fotos": [
-            "imagenes/ejemplos/florero-rosas-1.svg"
-          ],
-          "destacado": false
-        },
-        {
-          "id": "florero-mixto",
-          "titulo": "Florero con flores mixtas",
-          "precio": "",
-          "descripcion": "Flores de estación en florero cilíndrico de vidrio.",
-          "detalles": [
-            "Florero incluido",
-            "Flores según temporada"
-          ],
-          "fotos": [
-            "imagenes/ejemplos/florero-cilindro-1.svg"
+            "imagenes/productos/florero-rosas-mv1qof4v6.jpg"
           ],
           "destacado": false
         }
@@ -195,21 +148,21 @@
             "Se puede agregar cinta con dedicatoria"
           ],
           "fotos": [
-            "imagenes/ejemplos/cruz-floral-1.svg"
+            "imagenes/productos/cruz-floral-mv1qog807.jpg"
           ],
           "destacado": false
         },
         {
           "id": "cubre-cajon",
           "titulo": "Cubre cajón",
-          "precio": "",
+          "precio": "$ 22.000",
           "descripcion": "Arreglo alargado de flores para colocar sobre el cajón.",
           "detalles": [
             "Colores a elección",
             "Entrega en sala velatoria"
           ],
           "fotos": [
-            "imagenes/ejemplos/cubre-cajon-1.svg"
+            "imagenes/productos/cubre-cajon-mv1qoh7t8.jpg"
           ],
           "destacado": false
         }
@@ -223,14 +176,14 @@
         {
           "id": "corona",
           "titulo": "Corona fúnebre",
-          "precio": "",
+          "precio": "$ 88.000",
           "descripcion": "Corona de follaje y flores claras sobre atril.",
           "detalles": [
             "Atril incluido",
             "Cinta con dedicatoria"
           ],
           "fotos": [
-            "imagenes/ejemplos/corona-1.svg"
+            "imagenes/productos/corona-mv1qoi6d9.jpg"
           ],
           "destacado": false
         },
@@ -244,7 +197,7 @@
             "Cinta con dedicatoria"
           ],
           "fotos": [
-            "imagenes/ejemplos/palma-1.svg"
+            "imagenes/productos/palma-mv1qoj9z10.jpg"
           ],
           "destacado": false
         }
