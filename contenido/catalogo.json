@@ -225,7 +225,19 @@
       "id": "a",
       "titulo": "a",
       "descripcion": "",
-      "productos": []
+      "productos": [
+        {
+          "id": "aa",
+          "titulo": "aa",
+          "precio": "1",
+          "descripcion": "",
+          "detalles": [],
+          "fotos": [
+            "imagenes/productos/aa-mv1saw7d0.jpg"
+          ],
+          "destacado": false
+        }
+      ]
     },
     {
       "id": "b",
@@ -249,7 +261,19 @@
       "id": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
       "titulo": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
       "descripcion": "",
-      "productos": []
+      "productos": [
+        {
+          "id": "a-2",
+          "titulo": "a",
+          "precio": "1",
+          "descripcion": "",
+          "detalles": [],
+          "fotos": [
+            "imagenes/productos/a-2-mv1sayf71.jpg"
+          ],
+          "destacado": false
+        }
+      ]
     }
   ]
 }
