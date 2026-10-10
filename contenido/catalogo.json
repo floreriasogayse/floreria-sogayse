@@ -1,0 +1,254 @@
+{
+  "tienda": {
+    "nombre": "Florería Sogayse",
+    "eslogan": "Ramos, arreglos florales y mucho más, hechos a mano en Crespo",
+    "presentacion": "Ramos y arreglos florales, peluches, floreros de vidrio, arte funerario, coronas y palmas. Mirá nuestros trabajos y consultanos por WhatsApp o Instagram.",
+    "whatsapp": "5493434288630",
+    "instagram": "floreriasogayse",
+    "mensaje_general": "¡Hola! Vengo desde la página web de Florería Sogayse y quería hacer una consulta sobre sus productos y precios.",
+    "mensaje_producto": "¡Hola! Vengo desde la página web de Florería Sogayse y quería consultar el precio y la disponibilidad de: {producto}. ¡Muchas gracias!",
+    "direccion": "Dorrego 1433, Crespo, Entre Ríos",
+    "horarios": [
+      {
+        "dias": "Lunes a viernes",
+        "horas": "8:00 a 12:00 y 16:00 a 20:00"
+      },
+      {
+        "dias": "Sábados",
+        "horas": "8:00 a 12:30"
+      },
+      {
+        "dias": "Domingos",
+        "horas": "Cerrado"
+      }
+    ]
+  },
+  "categorias": [
+    {
+      "id": "ramos",
+      "titulo": "Ramos y arreglos florales",
+      "descripcion": "Para regalar, celebrar o decir lo que cuesta poner en palabras.",
+      "productos": [
+        {
+          "id": "ramo-rosas-rojas",
+          "titulo": "Ramo de rosas rojas",
+          "precio": "$ 28.000",
+          "descripcion": "Una docena de rosas rojas con follaje verde, envueltas en papel a elección.",
+          "detalles": [
+            "12 rosas rojas",
+            "Follaje y gypsophila",
+            "Papel y moño a elección",
+            "Tarjeta con dedicatoria"
+          ],
+          "fotos": [
+            "imagenes/ejemplos/ramo-rosas-rojas-1.svg",
+            "imagenes/ejemplos/ramo-rosas-rojas-2.svg"
+          ],
+          "destacado": true
+        },
+        {
+          "id": "ramo-primaveral",
+          "titulo": "Ramo primaveral",
+          "precio": "$ 22.000",
+          "descripcion": "Mezcla de rosas, margaritas y flores de estación en tonos suaves.",
+          "detalles": [
+            "Flores de estación",
+            "Colores pastel",
+            "Ideal para cumpleaños"
+          ],
+          "fotos": [
+            "imagenes/ejemplos/ramo-primaveral-1.svg",
+            "imagenes/ejemplos/ramo-primaveral-2.svg"
+          ],
+          "destacado": false
+        },
+        {
+          "id": "ramo-tulipanes",
+          "titulo": "Ramo de tulipanes",
+          "precio": "",
+          "descripcion": "Tulipanes de colores, según disponibilidad de la temporada.",
+          "detalles": [
+            "Entre 10 y 15 tulipanes",
+            "Sujeto a disponibilidad"
+          ],
+          "fotos": [
+            "imagenes/ejemplos/ramo-tulipanes-1.svg"
+          ],
+          "destacado": false
+        },
+        {
+          "id": "ramo-girasoles",
+          "titulo": "Ramo de girasoles",
+          "precio": "$ 19.500",
+          "descripcion": "Girasoles bien amarillos envueltos en papel kraft. Alegría asegurada.",
+          "detalles": [
+            "7 girasoles",
+            "Papel kraft y moño"
+          ],
+          "fotos": [
+            "imagenes/ejemplos/girasoles-1.svg"
+          ],
+          "destacado": false
+        },
+        {
+          "id": "caja-rosas",
+          "titulo": "Caja de rosas",
+          "precio": "$ 35.000",
+          "descripcion": "Rosas acomodadas en una caja rígida con tapa. Se puede elegir el color.",
+          "detalles": [
+            "15 rosas",
+            "Caja negra o blanca",
+            "Colores a elección"
+          ],
+          "fotos": [
+            "imagenes/ejemplos/caja-rosas-1.svg",
+            "imagenes/ejemplos/caja-rosas-2.svg"
+          ],
+          "destacado": true
+        },
+        {
+          "id": "centro-mesa",
+          "titulo": "Centro de mesa",
+          "precio": "Desde $ 18.000",
+          "descripcion": "Arreglo bajo para mesas de eventos, casamientos y cumpleaños.",
+          "detalles": [
+            "Se arma a medida",
+            "Precio por unidad",
+            "Consultar por cantidades"
+          ],
+          "fotos": [
+            "imagenes/ejemplos/centro-mesa-1.svg"
+          ],
+          "destacado": false
+        }
+      ]
+    },
+    {
+      "id": "peluches",
+      "titulo": "Peluches",
+      "descripcion": "Solos o acompañados de flores, para sumar un abrazo al regalo.",
+      "productos": [
+        {
+          "id": "oso-con-rosas",
+          "titulo": "Oso de peluche con rosas",
+          "precio": "",
+          "descripcion": "Oso de peluche con un pequeño ramo de rosas.",
+          "detalles": [
+            "Varios tamaños y colores",
+            "Se puede combinar con cualquier ramo"
+          ],
+          "fotos": [
+            "imagenes/ejemplos/peluche-oso-1.svg",
+            "imagenes/ejemplos/peluche-oso-2.svg"
+          ],
+          "destacado": false
+        }
+      ]
+    },
+    {
+      "id": "floreros",
+      "titulo": "Floreros de vidrio",
+      "descripcion": "Arreglos en florero, listos para poner sobre la mesa.",
+      "productos": [
+        {
+          "id": "florero-rosas",
+          "titulo": "Florero con rosas",
+          "precio": "",
+          "descripcion": "Rosas en florero de vidrio, con agua y follaje.",
+          "detalles": [
+            "Florero incluido",
+            "Colores a elección"
+          ],
+          "fotos": [
+            "imagenes/ejemplos/florero-rosas-1.svg"
+          ],
+          "destacado": false
+        },
+        {
+          "id": "florero-mixto",
+          "titulo": "Florero con flores mixtas",
+          "precio": "",
+          "descripcion": "Flores de estación en florero cilíndrico de vidrio.",
+          "detalles": [
+            "Florero incluido",
+            "Flores según temporada"
+          ],
+          "fotos": [
+            "imagenes/ejemplos/florero-cilindro-1.svg"
+          ],
+          "destacado": false
+        }
+      ]
+    },
+    {
+      "id": "funerario",
+      "titulo": "Arte funerario",
+      "descripcion": "Arreglos para acompañar con respeto.",
+      "productos": [
+        {
+          "id": "cruz-floral",
+          "titulo": "Cruz floral",
+          "precio": "",
+          "descripcion": "Cruz armada con rosas y flores blancas, con base de madera.",
+          "detalles": [
+            "Tamaño a convenir",
+            "Se puede agregar cinta con dedicatoria"
+          ],
+          "fotos": [
+            "imagenes/ejemplos/cruz-floral-1.svg"
+          ],
+          "destacado": false
+        },
+        {
+          "id": "cubre-cajon",
+          "titulo": "Cubre cajón",
+          "precio": "",
+          "descripcion": "Arreglo alargado de flores para colocar sobre el cajón.",
+          "detalles": [
+            "Colores a elección",
+            "Entrega en sala velatoria"
+          ],
+          "fotos": [
+            "imagenes/ejemplos/cubre-cajon-1.svg"
+          ],
+          "destacado": false
+        }
+      ]
+    },
+    {
+      "id": "coronas",
+      "titulo": "Coronas y palmas",
+      "descripcion": "Coronas y palmas con atril, con cinta y dedicatoria.",
+      "productos": [
+        {
+          "id": "corona",
+          "titulo": "Corona fúnebre",
+          "precio": "",
+          "descripcion": "Corona de follaje y flores claras sobre atril.",
+          "detalles": [
+            "Atril incluido",
+            "Cinta con dedicatoria"
+          ],
+          "fotos": [
+            "imagenes/ejemplos/corona-1.svg"
+          ],
+          "destacado": false
+        },
+        {
+          "id": "palma",
+          "titulo": "Palma fúnebre",
+          "precio": "",
+          "descripcion": "Palma alta de flores y follaje sobre atril.",
+          "detalles": [
+            "Atril incluido",
+            "Cinta con dedicatoria"
+          ],
+          "fotos": [
+            "imagenes/ejemplos/palma-1.svg"
+          ],
+          "destacado": false
+        }
+      ]
+    }
+  ]
+}
