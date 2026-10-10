@@ -1,4 +1,4 @@
-/* Florería Sogayse: arma el catálogo a partir de contenido/catalogo.json */
+/* Florería Sogaysé: arma el catálogo a partir de contenido/catalogo.json */
 (function () {
   'use strict';
 
@@ -178,7 +178,6 @@
       <footer class="pie">
         <div class="contenedor">
           <span>© ${new Date().getFullYear()} ${esc(t.nombre)}</span>
-          <a href="admin/index.html">Administrar</a>
         </div>
       </footer>
 
