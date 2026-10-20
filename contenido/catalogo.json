@@ -31,60 +31,85 @@
       "productos": [
         {
           "id": "ramo-rosas-rojas",
-          "titulo": "Ramo de rosas rojas",
-          "precio": "$ 88.000",
-          "descripcion": "Una docena de rosas rojas con follaje verde, envueltas en papel a elección.",
-          "detalles": [
-            "12 rosas rojas",
-            "Follaje y gypsophila",
-            "Papel y moño a elección",
-            "Tarjeta con dedicatoria"
-          ],
+          "titulo": "Ramo de Rosas",
+          "precio": "",
+          "descripcion": "Armado con rosas, según disponibilidad de la temporada y a gusto del cliente. Preparado con eucalipto, trifer y gipsofila.",
+          "detalles": [],
           "fotos": [
-            "imagenes/productos/ramo-rosas-rojas-mv1qo96a0.jpg"
+            "imagenes/productos/ramo-rosas-rojas-mvgt91b80.jpg",
+            "imagenes/productos/ramo-rosas-rojas-mvgt933o1.jpg",
+            "imagenes/productos/ramo-rosas-rojas-mvgt94qj2.jpg",
+            "imagenes/productos/ramo-rosas-rojas-mvgt968t3.jpg",
+            "imagenes/productos/ramo-rosas-rojas-mvgt98zg4.jpg",
+            "imagenes/productos/ramo-rosas-rojas-mvgt9aqy5.jpg",
+            "imagenes/productos/ramo-rosas-rojas-mvgt9c5g6.jpg",
+            "imagenes/productos/ramo-rosas-rojas-mvgt9duq7.jpg",
+            "imagenes/productos/ramo-rosas-rojas-mvgt9fia8.jpg",
+            "imagenes/productos/ramo-rosas-rojas-mvgt9h429.jpg",
+            "imagenes/productos/ramo-rosas-rojas-mvgt9itw10.jpg",
+            "imagenes/productos/ramo-rosas-rojas-mvgt9kzu11.jpg"
           ],
           "destacado": true
         },
         {
-          "id": "ramo-primaveral",
-          "titulo": "Ramo primaveral",
-          "precio": "$ 55.000",
-          "descripcion": "Mezcla de rosas, margaritas y flores de estación en tonos suaves.",
-          "detalles": [
-            "Flores de estación",
-            "Colores pastel",
-            "Ideal para cumpleaños"
-          ],
-          "fotos": [
-            "imagenes/productos/ramo-primaveral-mv1qoacu1.jpg"
-          ],
-          "destacado": false
-        },
-        {
           "id": "ramo-tulipanes",
-          "titulo": "Ramo de tulipanes",
-          "precio": "$ 67000",
-          "descripcion": "Tulipanes de colores, según disponibilidad de la temporada.",
-          "detalles": [
-            "Entre 10 y 15 tulipanes",
-            "Sujeto a disponibilidad"
-          ],
+          "titulo": "Ramo Premium",
+          "precio": "",
+          "descripcion": "Armado con variedad de flores, según disponibilidad de la temporada y a gusto del cliente. Preparado con eucalipto, trifer y gipsofila.",
+          "detalles": [],
           "fotos": [
-            "imagenes/productos/ramo-tulipanes-mv1qob7o2.jpg"
+            "imagenes/productos/ramo-tulipanes-mvgt9mhv12.jpg",
+            "imagenes/productos/ramo-tulipanes-mvgt9nwl13.jpg",
+            "imagenes/productos/ramo-tulipanes-mvgt9pkm14.jpg",
+            "imagenes/productos/ramo-tulipanes-mvgt9rc815.jpg",
+            "imagenes/productos/ramo-tulipanes-mvgt9suv16.jpg",
+            "imagenes/productos/ramo-tulipanes-mvgt9ug117.jpg",
+            "imagenes/productos/ramo-tulipanes-mvgt9w4v18.jpg",
+            "imagenes/productos/ramo-tulipanes-mvgt9xpb19.jpg",
+            "imagenes/productos/ramo-tulipanes-mvgt9zdo20.jpg",
+            "imagenes/productos/ramo-tulipanes-mvgta0ut21.jpg"
           ],
           "destacado": false
         },
         {
-          "id": "ramo-girasoles",
-          "titulo": "Ramo de girasoles",
-          "precio": "$ 19.500",
-          "descripcion": "Girasoles bien amarillos envueltos en papel kraft. Alegría asegurada.",
-          "detalles": [
-            "7 girasoles",
-            "Papel kraft y moño"
-          ],
+          "id": "ramo-primaveral",
+          "titulo": "Ramo Surtido",
+          "precio": "",
+          "descripcion": "Armado con variedad de flores, según disponibilidad de la temporada y a gusto del cliente. Preparado con eucalipto, trifer y gipsofila.",
+          "detalles": [],
           "fotos": [
-            "imagenes/productos/ramo-girasoles-mv1qoc473.jpg"
+            "imagenes/productos/ramo-primaveral-mvgta2df22.jpg",
+            "imagenes/productos/ramo-primaveral-mvgta40223.jpg",
+            "imagenes/productos/ramo-primaveral-mvgta5ek24.jpg",
+            "imagenes/productos/ramo-primaveral-mvgta70d25.jpg",
+            "imagenes/productos/ramo-primaveral-mvgta8ln26.jpg",
+            "imagenes/productos/ramo-primaveral-mvgtaa6g27.jpg",
+            "imagenes/productos/ramo-primaveral-mvgtabsu28.jpg",
+            "imagenes/productos/ramo-primaveral-mvgtadcb29.jpg",
+            "imagenes/productos/ramo-primaveral-mvgtaf0s30.jpg",
+            "imagenes/productos/ramo-primaveral-mvgtagtj31.jpg",
+            "imagenes/productos/ramo-primaveral-mvgtaivd32.jpg",
+            "imagenes/productos/ramo-primaveral-mvgtakg133.jpg",
+            "imagenes/productos/ramo-primaveral-mvgtamrt34.jpg"
+          ],
+          "destacado": false
+        },
+        {
+          "id": "ramo-de-novia",
+          "titulo": "Ramo de Novia",
+          "precio": "",
+          "descripcion": "",
+          "detalles": [],
+          "fotos": [
+            "imagenes/productos/ramo-de-novia-mvgtaokg35.jpg",
+            "imagenes/productos/ramo-de-novia-mvgtaq7736.jpg",
+            "imagenes/productos/ramo-de-novia-mvgtarw537.jpg",
+            "imagenes/productos/ramo-de-novia-mvgtatdf38.jpg",
+            "imagenes/productos/ramo-de-novia-mvgtauvb39.jpg",
+            "imagenes/productos/ramo-de-novia-mvgtawug40.jpg",
+            "imagenes/productos/ramo-de-novia-mvgtayd241.jpg",
+            "imagenes/productos/ramo-de-novia-mvgtb19t42.jpg",
+            "imagenes/productos/ramo-de-novia-mvgtb2ti43.jpg"
           ],
           "destacado": false
         }
@@ -97,16 +122,22 @@
       "productos": [
         {
           "id": "oso-con-rosas",
-          "titulo": "Oso de peluche",
-          "precio": "$ 22.000",
-          "descripcion": "Oso de peluche Blanco o Marrón",
-          "detalles": [
-            "Varios tamaños y colores",
-            "Se puede combinar con cualquier ramo"
-          ],
+          "titulo": "Variedad en Peluches",
+          "precio": "",
+          "descripcion": "Para nacimientos, enamorados, con música y más...",
+          "detalles": [],
           "fotos": [
-            "imagenes/productos/oso-con-rosas-mv1qod624.jpg",
-            "imagenes/productos/oso-con-rosas-mv1qoe2e5.jpg"
+            "imagenes/productos/oso-con-rosas-mvgtb4b344.jpg",
+            "imagenes/productos/oso-con-rosas-mvgtb5sl45.jpg",
+            "imagenes/productos/oso-con-rosas-mvgtb7e746.jpg",
+            "imagenes/productos/oso-con-rosas-mvgtb8wf47.jpg",
+            "imagenes/productos/oso-con-rosas-mvgtbac448.jpg",
+            "imagenes/productos/oso-con-rosas-mvgtbbx949.jpg",
+            "imagenes/productos/oso-con-rosas-mvgtbe8c50.jpg",
+            "imagenes/productos/oso-con-rosas-mvgtbfo151.jpg",
+            "imagenes/productos/oso-con-rosas-mvgtbhat52.jpg",
+            "imagenes/productos/oso-con-rosas-mvgtbitz53.jpg",
+            "imagenes/productos/oso-con-rosas-mvgtbkls54.jpg"
           ],
           "destacado": false
         }
@@ -114,20 +145,23 @@
     },
     {
       "id": "floreros",
-      "titulo": "Floreros de vidrio",
-      "descripcion": "Arreglos en florero, listos para poner sobre la mesa.",
+      "titulo": "Floreros",
+      "descripcion": "",
       "productos": [
         {
           "id": "florero-rosas",
-          "titulo": "Florero con rosas",
-          "precio": "$ 25.000",
-          "descripcion": "Rosas en florero de vidrio, con agua y follaje.",
-          "detalles": [
-            "Florero incluido",
-            "Colores a elección"
-          ],
+          "titulo": "Variedad de Floreros",
+          "precio": "",
+          "descripcion": "",
+          "detalles": [],
           "fotos": [
-            "imagenes/productos/florero-rosas-mv1qof4v6.jpg"
+            "imagenes/productos/florero-rosas-mvgtbmxw55.jpg",
+            "imagenes/productos/florero-rosas-mvgtbof356.jpg",
+            "imagenes/productos/florero-rosas-mvgtbqk557.jpg",
+            "imagenes/productos/florero-rosas-mvgtbrzt58.jpg",
+            "imagenes/productos/florero-rosas-mvgtbthl59.jpg",
+            "imagenes/productos/florero-rosas-mvgtbv3v60.jpg",
+            "imagenes/productos/florero-rosas-mvgtbwt861.jpg"
           ],
           "destacado": false
         }
@@ -139,28 +173,11 @@
       "descripcion": "Arreglos para acompañar con respeto.",
       "productos": [
         {
-          "id": "cruz-floral",
-          "titulo": "Cruz floral",
-          "precio": "",
-          "descripcion": "Cruz armada con rosas y flores blancas, con base de madera.",
-          "detalles": [
-            "Tamaño a convenir",
-            "Se puede agregar cinta con dedicatoria"
-          ],
-          "fotos": [
-            "imagenes/productos/cruz-floral-mv1qog807.jpg"
-          ],
-          "destacado": false
-        },
-        {
           "id": "cubre-cajon",
-          "titulo": "Cubre cajón",
-          "precio": "$ 22.000",
-          "descripcion": "Arreglo alargado de flores para colocar sobre el cajón.",
-          "detalles": [
-            "Colores a elección",
-            "Entrega en sala velatoria"
-          ],
+          "titulo": "Frente de Nicho y Tumbas en Mármol y Granito",
+          "precio": "",
+          "descripcion": "",
+          "detalles": [],
           "fotos": [
             "imagenes/productos/cubre-cajon-mv1qoh7t8.jpg"
           ],
@@ -170,20 +187,22 @@
     },
     {
       "id": "coronas",
-      "titulo": "Coronas y palmas",
-      "descripcion": "Coronas y palmas con atril, con cinta y dedicatoria.",
+      "titulo": "Corona, Palma, Cruz y Corazón",
+      "descripcion": "",
       "productos": [
         {
           "id": "corona",
           "titulo": "Corona fúnebre",
-          "precio": "$ 88.000",
-          "descripcion": "Corona de follaje y flores claras sobre atril.",
-          "detalles": [
-            "Atril incluido",
-            "Cinta con dedicatoria"
-          ],
+          "precio": "",
+          "descripcion": "",
+          "detalles": [],
           "fotos": [
-            "imagenes/productos/corona-mv1qoi6d9.jpg"
+            "imagenes/productos/corona-mvgtbycq62.jpg",
+            "imagenes/productos/corona-mvgtc03f63.jpg",
+            "imagenes/productos/corona-mvgtc1w264.jpg",
+            "imagenes/productos/corona-mvgtc3ex65.jpg",
+            "imagenes/productos/corona-mvgtc4zy66.jpg",
+            "imagenes/productos/corona-mvgtc6m567.jpg"
           ],
           "destacado": false
         },
@@ -191,13 +210,40 @@
           "id": "palma",
           "titulo": "Palma fúnebre",
           "precio": "",
-          "descripcion": "Palma alta de flores y follaje sobre atril.",
-          "detalles": [
-            "Atril incluido",
-            "Cinta con dedicatoria"
-          ],
+          "descripcion": "",
+          "detalles": [],
           "fotos": [
-            "imagenes/productos/palma-mv1qoj9z10.jpg"
+            "imagenes/productos/palma-mvgtc83e68.jpg",
+            "imagenes/productos/palma-mvgtc9pv69.jpg",
+            "imagenes/productos/palma-mvgtcbli70.jpg",
+            "imagenes/productos/palma-mvgtcde871.jpg",
+            "imagenes/productos/palma-mvgtcfe972.jpg"
+          ],
+          "destacado": false
+        },
+        {
+          "id": "cruz-floral",
+          "titulo": "Cruz floral",
+          "precio": "",
+          "descripcion": "",
+          "detalles": [],
+          "fotos": [
+            "imagenes/productos/cruz-floral-mvgtch1y73.jpg",
+            "imagenes/productos/cruz-floral-mvgtciqt74.jpg",
+            "imagenes/productos/cruz-floral-mvgtckrc75.jpg"
+          ],
+          "destacado": false
+        },
+        {
+          "id": "corazon-floral",
+          "titulo": "Corazón floral",
+          "precio": "",
+          "descripcion": "",
+          "detalles": [],
+          "fotos": [
+            "imagenes/productos/corazon-floral-mvgtcmf576.jpg",
+            "imagenes/productos/corazon-floral-mvgtco4p77.jpg",
+            "imagenes/productos/corazon-floral-mvgtcpth78.jpg"
           ],
           "destacado": false
         }
@@ -205,19 +251,51 @@
     },
     {
       "id": "dia-de-la-madre",
-      "titulo": "Dia de la Madre",
-      "descripcion": "Para sacarle un sonrisa a Mamá",
+      "titulo": "Imágenes del local",
+      "descripcion": "",
       "productos": [
         {
           "id": "ramos-de-girasoles",
-          "titulo": "Ramos de Girasoles",
-          "precio": "$ 22.000",
+          "titulo": "Acercate y mirá",
+          "precio": "",
           "descripcion": "",
           "detalles": [],
           "fotos": [
-            "imagenes/productos/ramos-de-girasoles-mv1s3b4s0.jpg"
+            "imagenes/productos/ramos-de-girasoles-mvgtcrkh79.jpg",
+            "imagenes/productos/ramos-de-girasoles-mvgtctc680.jpg",
+            "imagenes/productos/ramos-de-girasoles-mvgtcv2381.jpg",
+            "imagenes/productos/ramos-de-girasoles-mvgtcwrh82.jpg",
+            "imagenes/productos/ramos-de-girasoles-mvgtcy8t83.jpg"
           ],
-          "destacado": true
+          "destacado": false
+        }
+      ]
+    },
+    {
+      "id": "flores-artificiales",
+      "titulo": "Flores artificiales",
+      "descripcion": "",
+      "productos": [
+        {
+          "id": "variedad-en-flores-artificiales",
+          "titulo": "Variedad en Flores Artificiales",
+          "precio": "",
+          "descripcion": "",
+          "detalles": [],
+          "fotos": [
+            "imagenes/productos/variedad-en-flores-artificiales-mvgtczut84.jpg",
+            "imagenes/productos/variedad-en-flores-artificiales-mvgtd1j985.jpg",
+            "imagenes/productos/variedad-en-flores-artificiales-mvgtd32d86.jpg",
+            "imagenes/productos/variedad-en-flores-artificiales-mvgtd53g87.jpg",
+            "imagenes/productos/variedad-en-flores-artificiales-mvgtd6kd88.jpg",
+            "imagenes/productos/variedad-en-flores-artificiales-mvgtd85n89.jpg",
+            "imagenes/productos/variedad-en-flores-artificiales-mvgtd9uj90.jpg",
+            "imagenes/productos/variedad-en-flores-artificiales-mvgtdb8v91.jpg",
+            "imagenes/productos/variedad-en-flores-artificiales-mvgtdcth92.jpg",
+            "imagenes/productos/variedad-en-flores-artificiales-mvgtdeg993.jpg",
+            "imagenes/productos/variedad-en-flores-artificiales-mvgtdh4h94.jpg"
+          ],
+          "destacado": false
         }
       ]
     }
