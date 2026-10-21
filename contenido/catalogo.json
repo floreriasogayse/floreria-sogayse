@@ -237,7 +237,7 @@
         },
         {
           "id": "marcos-y-fotos",
-          "titulo": "Marcos y Fotos",
+          "titulo": "Placas en acero inox, Fotocerámica y Marcos para Fotos",
           "precio": "",
           "descripcion": "",
           "detalles": [],
@@ -254,7 +254,8 @@
           "descripcion": "",
           "detalles": [],
           "fotos": [
-            "imagenes/productos/porta-placas-mvi5pe2n25.jpg"
+            "imagenes/productos/porta-placas-mvi5pe2n25.jpg",
+            "imagenes/productos/porta-placas-mvi6g2560.jpg"
           ],
           "destacado": false
         },
