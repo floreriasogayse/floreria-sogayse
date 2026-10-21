@@ -243,7 +243,12 @@
           "detalles": [],
           "fotos": [
             "imagenes/productos/marcos-y-fotos-mvi5p9dy23.jpg",
-            "imagenes/productos/marcos-y-fotos-mvi5pblp24.jpg"
+            "imagenes/productos/marcos-y-fotos-mvi5pblp24.jpg",
+            "imagenes/productos/marcos-y-fotos-mvi6w1vk0.jpg",
+            "imagenes/productos/marcos-y-fotos-mvi6w4gn1.jpg",
+            "imagenes/productos/marcos-y-fotos-mvi6w70l2.jpg",
+            "imagenes/productos/marcos-y-fotos-mvi6w8iz3.jpg",
+            "imagenes/productos/marcos-y-fotos-mvi6waig4.jpg"
           ],
           "destacado": false
         },
@@ -338,28 +343,6 @@
       ]
     },
     {
-      "id": "dia-de-la-madre",
-      "titulo": "Imágenes del local",
-      "descripcion": "",
-      "productos": [
-        {
-          "id": "ramos-de-girasoles",
-          "titulo": "Acercate y mirá",
-          "precio": "",
-          "descripcion": "",
-          "detalles": [],
-          "fotos": [
-            "imagenes/productos/ramos-de-girasoles-mvgtcrkh79.jpg",
-            "imagenes/productos/ramos-de-girasoles-mvgtctc680.jpg",
-            "imagenes/productos/ramos-de-girasoles-mvgtcv2381.jpg",
-            "imagenes/productos/ramos-de-girasoles-mvgtcwrh82.jpg",
-            "imagenes/productos/ramos-de-girasoles-mvgtcy8t83.jpg"
-          ],
-          "destacado": false
-        }
-      ]
-    },
-    {
       "id": "flores-artificiales",
       "titulo": "Flores artificiales",
       "descripcion": "",
@@ -382,6 +365,28 @@
             "imagenes/productos/variedad-en-flores-artificiales-mvgtdcth92.jpg",
             "imagenes/productos/variedad-en-flores-artificiales-mvgtdeg993.jpg",
             "imagenes/productos/variedad-en-flores-artificiales-mvgtdh4h94.jpg"
+          ],
+          "destacado": false
+        }
+      ]
+    },
+    {
+      "id": "dia-de-la-madre",
+      "titulo": "Imágenes del local",
+      "descripcion": "",
+      "productos": [
+        {
+          "id": "ramos-de-girasoles",
+          "titulo": "Acercate y mirá",
+          "precio": "",
+          "descripcion": "",
+          "detalles": [],
+          "fotos": [
+            "imagenes/productos/ramos-de-girasoles-mvgtcrkh79.jpg",
+            "imagenes/productos/ramos-de-girasoles-mvgtctc680.jpg",
+            "imagenes/productos/ramos-de-girasoles-mvgtcv2381.jpg",
+            "imagenes/productos/ramos-de-girasoles-mvgtcwrh82.jpg",
+            "imagenes/productos/ramos-de-girasoles-mvgtcy8t83.jpg"
           ],
           "destacado": false
         }
