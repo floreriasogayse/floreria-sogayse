@@ -174,12 +174,99 @@
       "productos": [
         {
           "id": "cubre-cajon",
-          "titulo": "Frente de Nicho y Tumbas en Mármol y Granito",
+          "titulo": "Frentes de Nicho",
+          "precio": "",
+          "descripcion": "INCLUYE LAPIDA + CRUZ + FOTO CERAMICA + PLACA GRABADA Y JARDINERA O         FLORERO",
+          "detalles": [],
+          "fotos": [
+            "imagenes/productos/cubre-cajon-mvi5nyzs0.jpg",
+            "imagenes/productos/cubre-cajon-mvi5o0oo1.jpg",
+            "imagenes/productos/cubre-cajon-mvi5o3lc2.jpg",
+            "imagenes/productos/cubre-cajon-mvi5o57s3.jpg",
+            "imagenes/productos/cubre-cajon-mvi5o7s94.jpg",
+            "imagenes/productos/cubre-cajon-mvi5oa2w5.jpg",
+            "imagenes/productos/cubre-cajon-mvi5obs76.jpg"
+          ],
+          "destacado": false
+        },
+        {
+          "id": "tumbas",
+          "titulo": "Tumbas",
           "precio": "",
           "descripcion": "",
           "detalles": [],
           "fotos": [
-            "imagenes/productos/cubre-cajon-mv1qoh7t8.jpg"
+            "imagenes/productos/tumbas-mvi5odcq7.jpg",
+            "imagenes/productos/tumbas-mvi5ofsx8.jpg",
+            "imagenes/productos/tumbas-mvi5oi909.jpg",
+            "imagenes/productos/tumbas-mvi5ojso10.jpg",
+            "imagenes/productos/tumbas-mvi5on2o11.jpg",
+            "imagenes/productos/tumbas-mvi5opcw12.jpg",
+            "imagenes/productos/tumbas-mvi5oqtp13.jpg"
+          ],
+          "destacado": false
+        },
+        {
+          "id": "cruz",
+          "titulo": "Cruces",
+          "precio": "",
+          "descripcion": "",
+          "detalles": [],
+          "fotos": [
+            "imagenes/productos/cruz-mvi5othm14.jpg",
+            "imagenes/productos/cruz-mvi5ow0z15.jpg"
+          ],
+          "destacado": false
+        },
+        {
+          "id": "apliques-floreros",
+          "titulo": "Apliques - Floreros",
+          "precio": "",
+          "descripcion": "",
+          "detalles": [],
+          "fotos": [
+            "imagenes/productos/apliques-floreros-mvi5oxkd16.jpg",
+            "imagenes/productos/apliques-floreros-mvi5oyya17.jpg",
+            "imagenes/productos/apliques-floreros-mvi5p0up18.jpg",
+            "imagenes/productos/apliques-floreros-mvi5p2f519.jpg",
+            "imagenes/productos/apliques-floreros-mvi5p3nz20.jpg",
+            "imagenes/productos/apliques-floreros-mvi5p6dj21.jpg",
+            "imagenes/productos/apliques-floreros-mvi5p7zr22.jpg"
+          ],
+          "destacado": false
+        },
+        {
+          "id": "marcos-y-fotos",
+          "titulo": "Marcos y Fotos",
+          "precio": "",
+          "descripcion": "",
+          "detalles": [],
+          "fotos": [
+            "imagenes/productos/marcos-y-fotos-mvi5p9dy23.jpg",
+            "imagenes/productos/marcos-y-fotos-mvi5pblp24.jpg"
+          ],
+          "destacado": false
+        },
+        {
+          "id": "porta-placas",
+          "titulo": "Porta placas",
+          "precio": "",
+          "descripcion": "",
+          "detalles": [],
+          "fotos": [
+            "imagenes/productos/porta-placas-mvi5pe2n25.jpg"
+          ],
+          "destacado": false
+        },
+        {
+          "id": "marmoles-y-granito",
+          "titulo": "Mármoles y Granito",
+          "precio": "",
+          "descripcion": "",
+          "detalles": [],
+          "fotos": [
+            "imagenes/productos/marmoles-y-granito-mvi5pfur26.jpg",
+            "imagenes/productos/marmoles-y-granito-mvi5pi2e27.jpg"
           ],
           "destacado": false
         }
